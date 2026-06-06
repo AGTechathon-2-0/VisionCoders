@@ -155,10 +155,10 @@ This README can be extended with member names and roles once available.
 
 Example:
 
-- Alice — Frontend
-- Bob — Backend
-- Carol — UI/UX
-- Dave — Testing
+- Ganesh Chavan(Leader) — handles backened
+- - Chinmayi Udata — Backend
+- Prajyot Bolli — Frontend
+- Samruddhi Katare — Testing
 
 ---
 
