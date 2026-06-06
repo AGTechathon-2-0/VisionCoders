@@ -138,7 +138,7 @@ The frontend connects to Socket.IO at `http://localhost:5001` and emits changes 
 
 - Invite flow only works if the invited user is already registered in the system.
 - File save uses file `name` matching; duplicate file names may cause conflicts.
-- Code execution is currently limited to JavaScript files in the browser.
+- Code execution is currently limited to JavaScript and css files in the browser.
 
 ## Future Improvements
 
@@ -151,15 +151,11 @@ The frontend connects to Socket.IO at `http://localhost:5001` and emits changes 
 
 ## Team / Contributors
 
-This README can be extended with member names and roles once available.
-
-Example:
-
 - Ganesh Chavan(Leader) — handles backened
-- - Chinmayi Udata — Backend
+- Chinmayi Udata — Backend
 - Prajyot Bolli — Frontend
 - Samruddhi Katare — Testing
 
 ---
 
-If you want, I can also add a dedicated section for group members and their roles once you provide the details.
+ 
